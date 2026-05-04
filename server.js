@@ -3,7 +3,7 @@ const https = require('https');
 const url = require('url');
 
 const PORT = process.env.PORT || 8080;
-const SHOPIFY_SHOP = 'thevelvetveils';
+const SHOPIFY_SHOP = 'da572a-b5';
 const SHOPIFY_TOKEN = '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';
 
 console.log('🚀 Shopify API Proxy Server Starting...');
